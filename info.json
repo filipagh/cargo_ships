@@ -1,8 +1,8 @@
 {
-  "name": "cargo-ships",
-  "version": "1.0.32",
+  "name": "cargo-ships-big-cargo-settings",
+  "version": "1.0.32.1",
   "title": "Cargo Ships",
-  "author": "rude_grass",
+  "author": "Pumec",
   "description": "Adds cargo ships, oil tankers, deep sea oil rigs and other ocean based content",
   "factorio_version": "2.0",
   "dependencies": [
